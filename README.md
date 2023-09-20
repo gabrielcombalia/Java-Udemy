@@ -4,7 +4,12 @@ curso java udemy
 
 sudo apt  install openjdk-17-jdk
 
+digitando sudo apt install openjdk + a tecla TAB, aparecerá as versões canonicas possíveis do repositório apt
+
+
 java -version
+
+java => vai aparecer um monte de opção já que não fo idado nenhum argumento
 
 jshell => entra num tipo de irb para o ruby, tambem roda na linha de comando do windows
 
